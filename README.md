@@ -1,4 +1,4 @@
-<h1 align="center">Made by sigh#0001 / anonymous</h1>
+<h1 align="center">Made by sigh#0001 / Tworb#0001</h1>
 <h3 align="center">Stats for packing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolcat-y&label=Profile%20views&color=0e75b6&style=flat" alt="lolcat-y" /> </p>
