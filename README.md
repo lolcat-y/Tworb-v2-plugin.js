@@ -1,4 +1,4 @@
-<h1 align="center">Made by sigh#0001 / Tworb#0001</h1>
+<h1 align="center">Made by neo / Tworb#0001</h1>
 <h3 align="center">Stats for packing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lolcat-y&label=Profile%20views&color=0e75b6&style=flat" alt="lolcat-y" /> </p>
@@ -12,8 +12,6 @@
 - Tworbii's Youtube Channel [Video Tutorial's](https://www.youtube.com/channel/UCqwyjQcgslu3kZgWABPdrag)
 
 - Sigh's Github [https://github.com/lolcat-y](https://github.com/lolcat-y)
-
-- Sigh's Com Discord Server [https://discord.gg/2qVkjYytsQ](https://discord.gg/2qVkjYytsQ)
 
 - Email **host-api@protonmail.com**
 
